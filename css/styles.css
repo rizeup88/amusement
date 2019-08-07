@@ -1,0 +1,54 @@
+html body {
+	background-color: #fff3bd;
+}
+
+h1 {
+	font-family: 'Beantown';
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Roboto';
+	text-align: center;
+}
+
+p {
+	font-family: 'Roboto';
+	text-align: center;
+}
+
+.heightcheck {
+	margin-top: 1em;
+}
+
+.heightcheck img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.ridelist ul {
+	text-align: center;
+}
+
+.ridelist li {
+	list-style-type: none;
+}
+
+#saferides {
+	display: none;
+	margin-top: 1em;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+#saferrides {
+	display: none;
+	margin-top: 1em;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.red-text {
+	color: red;
+}
